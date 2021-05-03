@@ -1,0 +1,2 @@
+Maxlength=21   Maximum length of the queue attained=1
+Firstname= sarath, Sirname= gamini, WaitedTime= 10 Minutes, SeatNo= 2, AvgWaitedTime= 10.0
